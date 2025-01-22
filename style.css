@@ -42,7 +42,7 @@ main{
 /*aside*/
 main aside{
     width: 100%;
-    max-width: 240px;
+    max-width: 300px;
     display: flex;
     flex-direction: column;
     gap: 8px;
